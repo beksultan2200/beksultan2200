@@ -21,6 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beksultan2200&show_icons=true&theme=dark&locale=en&layout=compact" alt="beknazar" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beksultan2200&show_icons=true&theme=dark&locale=en&layout=compact" alt="beksultan2200" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beksultan2200&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=ru" alt="beksultan2200" /></p>
+
+<a href="https://www.codewars.com/users/beks2995"><img src="https://www.codewars.com/users/beks2995/badges/large"></a>
