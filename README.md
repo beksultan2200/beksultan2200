@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **chotbaevbeksultan2200@gmail.com**
 
+-  👨‍💻 All of my projects are available at [https://beksultan2200.github.io/Portfolio/](https://beksultan2200.github.io/Portfolio/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/chotbaev-beksultan-4a9312279/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beksultan linkedin" height="30" width="40" /></a>
